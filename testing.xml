@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OST_TEST.TestNG by packages">
+ <test verbose="1" name="OST_TEST.OstTestPost">
+    <packages>
+     <package name="OST_TEST.OstTestPost"/>
+    </packages>
+ </test>
+</suite>
